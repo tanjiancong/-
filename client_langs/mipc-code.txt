@@ -1,0 +1,18 @@
+/*
+code table
+
+ret code string				language string name
+cacs.login.invalid_password		mcs_invalid_password
+
+
+*/
+
+/* 
+api ret code
+
+api-function				ret code list
+login()
+					cacs.login.invalid_password
+					ccms.device.offline
+
+*/

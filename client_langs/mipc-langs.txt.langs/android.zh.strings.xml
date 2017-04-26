@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Localizable.strings
+     Created by mining code-gen base Mining Frameworks.
+     More about : http://www.shenzhenmining.com
+-->
+<resources>
+
+<string name="mcs_home">首页</string>
+<string name="mcs_nearby">附近</string>
+<string name="mcs_recommend">推荐</string>
+<string name="mcs_find">发现</string>
+<string name="mcs_mine">我</string>
+<string name="mcs_food">美食</string>
+<string name="mcs_activity">活动</string>
+<string name="mcs_explore">逛店</string>
+</resources>

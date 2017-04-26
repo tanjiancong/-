@@ -1,0 +1,14 @@
+/* 
+Localizable.strings
+Created by mining code-gen base Mining Frameworks.
+More about : http://www.shenzhenmining.com
+*/
+
+"mcs_home"                      = "Home";
+"mcs_nearby"                    = "nearby";
+"mcs_recommend"                 = "Recommend";
+"mcs_find"                      = "Find";
+"mcs_mine"                      = "Mine";
+"mcs_food"                      = "food";
+"mcs_activity"                  = "activity";
+"mcs_explore"                   = "explore";

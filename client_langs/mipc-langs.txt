@@ -1,0 +1,39 @@
+{
+langs:["en", "zh"],
+default:"en",
+list:{
+    mcs_home:{
+        en:"Home",
+        zh:"首页"
+    },
+    mcs_nearby:{
+        en:"nearby",
+        zh:"附近"
+    },
+   mcs_recommend:{
+        en:"Recommend",
+        zh:"推荐"
+    },
+    mcs_find:{
+        en:"Find",
+        zh:"发现"
+    },
+    mcs_mine:{
+        en:"Mine",
+        zh:"我"
+    },
+   mcs_food:{
+        en: "food",
+        zh: "美食"
+    },
+    mcs_activity:{
+        en:"activity",
+        zh: "活动"
+    },
+    mcs_explore:{
+        en: "explore",
+        zh: "逛店"
+    }
+    
+}
+}
